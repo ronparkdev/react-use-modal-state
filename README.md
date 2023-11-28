@@ -9,7 +9,7 @@ Simplify modal management in React with ease! Seamlessly integrate modals into c
 * 🎨 Customizable Modals
 
 ## Example:
-```
+```typescript
 import { useModalsState } from 'react-use-modals-state';
 
 const Page = () => {
